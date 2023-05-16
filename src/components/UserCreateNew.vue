@@ -1,5 +1,5 @@
 <template>
-  <h2 class="text-center py-3">معلومات بطاقات مشفى العالمي الأهلي</h2>
+  <h2 class="text-center py-3">معلومات بطاقات  الهلال الأحمر  </h2>
   <div class="card card-body mt-4 cardAdd">
     <div class="form-group mt-3" v-if="password != '12345678'">
         <label>كلمة المرور</label>
