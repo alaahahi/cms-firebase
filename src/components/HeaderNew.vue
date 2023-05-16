@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-denger">
+  <nav class="navbar navbar-expand-lg navbar-light " style="background-color: rgb(239, 22, 22);">
   <div class="container-fluid">
     <a class="navbar-brand text-white" href="/hospital">CMS AI
     </a>
