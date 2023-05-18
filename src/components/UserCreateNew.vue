@@ -89,6 +89,9 @@
           <option value="ايمان حسين">ايمان حسين</option>
           <option value="مقبل طلال">مقبل طلال</option>
           <option value="أزهار رزاق ">أزهار رزاق </option>
+
+          <option value="مرتضى باسم" >مرتضى باسم</option>
+          <option value="عبدالله ثامر">عبدالله ثامر</option>
           
         </select>
       </div>
